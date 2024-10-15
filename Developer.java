@@ -15,7 +15,7 @@ class Developer {
     
     public static void main(String[] args) {
         
-        Developer john = new Developer("laptop");
+        Developer john = new Developer("laptop ");
         john.runCode(); 
         
         Developer jane = new Developer("desktop");
